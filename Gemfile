@@ -5,7 +5,6 @@ ruby '2.7.2'
 
 gem 'devise'
 
-gem 'rubocop'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.0'
