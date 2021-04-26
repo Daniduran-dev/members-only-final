@@ -46,7 +46,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
--Thanks to the Raptorex group for their support.
+- Thanks to the Raptorex group for their support.
 
 ## 📝 License
 
